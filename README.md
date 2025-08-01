@@ -19,4 +19,4 @@ To automate Google Play deployment:
    - `KEY_PASSWORD`
 
 Extend `.github/workflows/android-build.yml` with Fastlane steps.
-Triggering build
+
